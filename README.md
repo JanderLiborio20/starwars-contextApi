@@ -19,7 +19,7 @@ Nesse projeto, usarei:
 Para rodá-lo em sua máquina, basta clonar o repositório utilizando seu terminal:
 
 ```
-git git@github.com:JanderLiborio20/starwars-contextApi.git
+git clone git@github.com:JanderLiborio20/starwars-contextApi.git
 ```
 
 Em seguida, acesse a pasta:
